@@ -1,5 +1,4 @@
-# Powerbi_Dashboard_Project
-Mobile Sales Dashboard | Power BI 
-
-Power BI dashboard to analyze mobile sales with custom MTD/YTD calendar, brand/model filters, and interactive visuals.
-Includes sales KPIs, city-wise map, monthly trends, and payment method insights for better business decisions.
+# Mobile-Sales-Data-Analysis(Interactive Dashboard  Creation Using Power BI )
+## Project Objective
+The objective of this project is to visualize and analyze mobile sales data using Power BI for better decision-making.
+It aims to track key metrics (MTD/YTD), identify sales trends, and understand customer and regional performance..
